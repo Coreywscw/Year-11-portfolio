@@ -2,13 +2,13 @@
     background: url("kermitfroggy.jpg");
     overflow: hidden;
     height: 100px;
-    width: 500px;
+    width: 700px;
     background-size: stretch;
     background-repeat: no-repeat;
   }
   .topnav a {
     float: left;
-    color: #lack;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,5 +19,14 @@
     color: white;
   }
   body {
-    background-color: grey;
+    background-color: gray;
   }
+  h3 {
+    text-align:right;
+}
+.final-outcome {
+  margin-right: 400px;
+}
+img {
+  margin-right: 400px;
+}
